@@ -1,4 +1,4 @@
-# HAVA自动部署平台
+# 自动部署平台
 
 ## 第一步
 * source activate hava
